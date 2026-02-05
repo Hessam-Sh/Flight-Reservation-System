@@ -29,7 +29,7 @@ This project includes user authentication, flight search, ticket generation (wit
 ---
 
 ## 🛠 Technologies Used
-- Java 17  
+- Java 21 
 - Spring Boot  
 - Spring Security  
 - Thymeleaf  
